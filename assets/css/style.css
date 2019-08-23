@@ -1,0 +1,51 @@
+.navbar-brand {
+    text-align: center;
+    padding-right: 100px;  
+}
+
+#sea {
+    background: url(../images/wooden-doors-ocean.jpg);
+    background-size: cover;
+}
+#sea .sea-content {
+    height: 600px;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    font-family: 'Hepta Slab', serif;
+}
+
+.card-header h2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.card h3 {
+    font-family: 'Hepta Slab', serif;
+}
+
+.container {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+
+#footer li {
+    list-style: none;
+    display: inline;
+}
+
+#footer a {
+    text-decoration: none;
+    color: black;
+}
+
+#footer a:hover {
+    border-bottom: 1px solid black;
+}
